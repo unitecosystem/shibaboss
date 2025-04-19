@@ -1,11 +1,11 @@
 {
-  "name": "UNIT SKI LAUNCH",
-  "symbol": "SKILAUNCH",
-  "description": "SKILAUNCH token for the SKILAUNCH ecosystem",
-  "image": "https://raw.githubusercontent.com/unitecosystem/UnitSkiLaunch/refs/heads/main/Ski.png",
+  "name": "SHIBA BOSS",
+  "symbol": "SHIBABOSS",
+  "description": "SHIBABOSS",
+  "image": "https://raw.githubusercontent.com/unitecosystem/shibaboss/main/shibaboss.jpg",
   "creator": {
-    "name": "Unite Ecosystem",
-    "site": "https://uniteecosystem.com"
+    "name": "shibaboss",
+    "site": "https://shibaboss.com"
   },
   "seller_fee_basis_points": 0,
   "creators": null
